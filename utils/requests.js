@@ -21,5 +21,4 @@ export default {
         title: 'Sci-Fi',
         url: `/discover/movie?api_key=${API_KEY}&with_genres=878`,
     },
-
 }
